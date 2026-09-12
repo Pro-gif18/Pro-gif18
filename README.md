@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
+<h1 align="center">Hi 👋, I'm RAKESH MOURYA</h1>
 
 <p align="center">
-🚀 Full Stack Developer | MERN • React • Node.js • MongoDB<br/>
-💻 Language: JavaScript • C++
+🧑‍💻 Full Stack Developer | MERN • Python • PHP • MySQL • MongoDB • C Language  • C++ • C++
 </p>
 
-<p align="center">
+<p align="center"> 
   <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-brightgreen" />
   <img src="https://img.shields.io/badge/PORTFOLIO-blue" />
 </p>
