@@ -1,164 +1,109 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
 
-# Hi 👋, I'm Rakesh Maurya
-
-### 💻 Frontend Developer | MERN Stack Learner | UI Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Frontend+Web+Developer;MERN+Stack+Learner;Building+Modern+Web+Experiences;Passionate+About+UI%2FUX" />
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Pro-gif18&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/Pro-gif18?label=Followers&style=flat&color=blue" />
+<p align="center">
+🚀 Full Stack Developer | MERN • React • Node.js • MongoDB<br/>
+💻 Language: JavaScript • C++
 </p>
 
-</div>
-
----
-
-## 👨‍💻 About Me
-
-- 👋 Hi, I'm **Rakesh Maurya**
-- 💻 Frontend Web Developer
-- 🌱 Currently learning **React.js, Node.js, Express.js & MongoDB**
-- 🎨 Passionate about **UI/UX Design and Responsive Websites**
-- 🚀 Love building real-world web applications
-- 🧠 Always learning and improving my coding skills
-- 🎯 Goal: Become a skilled **Full Stack MERN Developer**
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-### Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### Programming & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,git,github,vscode" />
+<p align="center">
+  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-brightgreen" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-blue" />
 </p>
 
 ---
 
-## 🚀 My Projects
+### 🛠 Skills
 
-### 🚗 Vehicle Rental System
+**Frontend Developer**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+</p>
 
-Full-stack vehicle rental application built using React, Node.js, Express and MongoDB.
-
-**Tech:** React.js • Node.js • Express.js • MongoDB
-
-🔗 [View Repository](https://github.com/Pro-gif18/Vehicle-Rental-System)
-
----
-
-### 🏨 Smart Hostel Management System
-
-Django-based Smart Hostel and Mess Management System.
-
-**Tech:** HTML • Django
-
-🔗 [View Repository](https://github.com/Pro-gif18/Smart-Hostel-Management-System)
-
----
-
-### 🌦️ Weather App
-
-A responsive weather application that displays weather information using an API.
-
-**Tech:** JavaScript • API • HTML • CSS
-
-🔗 [View Repository](https://github.com/Pro-gif18/weather-app)
+**Backend Developer**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+</p>
 
 ---
 
-### ✈️ Rakesh Travel
+### 🎓 Certifications
 
-A modern responsive travel website interface.
+<p align="center">
+  <a href="LINK_TO_CERTIFICATE_1" target="_blank">
+    <img src="LINK_TO_CERTIFICATE_1_IMAGE" width="500" />
+  </a>
+</p>
+<p align="center">
+  📘 Course Name — Platform Name<br/>
+  📅 Completed: DATE | 🆔 Certificate Code: XXXXXXX
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-YOUR%20SKILL-blue" />
+  <img src="https://img.shields.io/badge/-BEGINNER-green" />
+  <img src="https://img.shields.io/badge/-CERTIFIED-orange" />
+</p>
 
-**Tech:** HTML • CSS • JavaScript
+<br/>
 
-🔗 [View Repository](https://github.com/Pro-gif18/rakesh-travel)
-
----
-
-### 🛍️ Coza Store
-
-Modern fashion e-commerce website UI inspired by online shopping platforms.
-
-**Tech:** HTML • CSS
-
-🔗 [View Repository](https://github.com/Pro-gif18/cozastorebyrakeshmourya)
-
----
-
-### 🐍 First Phase Project
-
-Python-based learning and practice project.
-
-**Tech:** Python
-
-🔗 [View Repository](https://github.com/Pro-gif18/First-Phase-Project)
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pro-gif18&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pro-gif18&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
+<p align="center">
+  <a href="LINK_TO_CERTIFICATE_2" target="_blank">
+    <img src="LINK_TO_CERTIFICATE_2_IMAGE" width="500" />
+  </a>
+</p>
+<p align="center">
+  📘 Course Name — Platform Name<br/>
+  📅 Completed: DATE | ⏱ Duration: XX Hours
+</p>
 
 ---
 
-## 🔥 Contribution Streak
+### 📌 Projects
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Pro-gif18&theme=tokyonight&hide_border=true" />
-
-</div>
+- 🔗 [Project Name 1](REPO_LINK) — one line description
+- 🔗 [Project Name 2](REPO_LINK) — one line description
+- 🔗 [Project Name 3](REPO_LINK) — one line description
 
 ---
 
-## 🎯 Currently Learning
+### 📬 Contact Me
 
-```text
-JavaScript        ████████████████░░░░ 80%
-React.js          ███████████████░░░░░ 75%
-UI/UX Design      ██████████████░░░░░░ 70%
-Node.js           ██████████░░░░░░░░░░ 50%
-Express.js        ████████░░░░░░░░░░░░ 40%
-MongoDB           ████████░░░░░░░░░░░░ 40%
+<p>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="YOUR_GITHUB_LINK">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_INSTAGRAM_LINK">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
+  <a href="YOUR_YOUTUBE_LINK">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" />
+  </a>
+</p>
 
+---
 
-💡 My Interests
-🌐 Web Development
-🎨 UI/UX Design
-⚛️ React Development
-🧩 Full Stack Development
-📱 Responsive Web Design
-🚀 Building Real-World Projects
-📚 Learning New Technologies
+### ⚡ Hobbies
 
-🤝 Connect With Me
-<p align="left"> <a href="https://github.com/Pro-gif18"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:rakeshmaurya106433@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://youtube.com/@moviesindustry_"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a> </p>
-🧠 Quote
+- 🌱 Learning new tech daily
+- 💻 Writing code & debugging
+- 🎧 Listening to music while coding
+- 🤖 Exploring AI & Automation
 
-"Code. Create. Learn. Repeat." 🚀
+---
 
-<div align="center">
-⭐ Thanks for visiting my profile!
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer" /> </div> ```
+### 💬 Quote I Believe In
+
+> "Success is not final, failure is not fatal: it is the courage to continue that counts."
+> — Winston Churchill
