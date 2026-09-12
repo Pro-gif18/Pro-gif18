@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm RAKESH MOURYA</h1>
+<h1 align="center">Hi 👋, I'm Rakesh Kumar Maurya</h1>
 
 <p align="center">
-🧑‍💻 Full Stack Developer | MERN • Python • PHP • MySQL • MongoDB • C Language  • C++ • C++
+🚀 Full Stack Developer | MERN • React • Node.js • MongoDB<br/>
+💻 Languages: JavaScript • C++ • Java • Kotlin • Dart
 </p>
 
-<p align="center"> 
+<p align="center">
   <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-brightgreen" />
   <img src="https://img.shields.io/badge/PORTFOLIO-blue" />
 </p>
@@ -30,35 +31,52 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
 </p>
 
+**App Developer**
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" />
+</p>
+
+**Cybersecurity**
+<p>
+  <img src="https://img.shields.io/badge/-Network%20Security-red" />
+  <img src="https://img.shields.io/badge/-IAM-orange" />
+</p>
+
 ---
 
 ### 🎓 Certifications
 
 <p align="center">
-  <a href="LINK_TO_CERTIFICATE_1" target="_blank">
-    <img src="LINK_TO_CERTIFICATE_1_IMAGE" width="500" />
-  </a>
+  <img src="./assets/certificate-cybersecurity-forage.jpg" width="500" />
 </p>
 <p align="center">
-  📘 Course Name — Platform Name<br/>
-  📅 Completed: DATE | 🆔 Certificate Code: XXXXXXX
+  📘 Cybersecurity Analyst Job Simulation — TATA (via Forage)<br/>
+  📅 Completed: 9th September 2026 | 🆔 Verification Code: 6aa0d7f759a1f486874eaeac
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/-YOUR%20SKILL-blue" />
-  <img src="https://img.shields.io/badge/-BEGINNER-green" />
-  <img src="https://img.shields.io/badge/-CERTIFIED-orange" />
+  <img src="https://img.shields.io/badge/-CYBERSECURITY-blue" />
+  <img src="https://img.shields.io/badge/-IAM-orange" />
+  <img src="https://img.shields.io/badge/-TATA%20FORAGE-darkblue" />
 </p>
 
 <br/>
 
 <p align="center">
-  <a href="LINK_TO_CERTIFICATE_2" target="_blank">
-    <img src="LINK_TO_CERTIFICATE_2_IMAGE" width="500" />
-  </a>
+  <img src="./assets/certificate-network-security-skillindia.jpg" width="500" />
 </p>
 <p align="center">
-  📘 Course Name — Platform Name<br/>
-  📅 Completed: DATE | ⏱ Duration: XX Hours
+  📘 Network Security Engineer — Skill India Digital Hub (NASSCOM)<br/>
+  📅 Completed: 11th September 2026 | ⏱ Duration: 1 Hour
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-NETWORK%20SECURITY-red" />
+  <img src="https://img.shields.io/badge/-SKILL%20INDIA-green" />
+  <img src="https://img.shields.io/badge/-NASSCOM-yellow" />
 </p>
 
 ---
